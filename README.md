@@ -26,6 +26,7 @@ The aim is to try to predict the 'biopsy' variable from the dataset using four a
 3) Random Forest and,
 4) Boosting with XGBoost Classifier.
 
+
 The results obtained by the four models are summarised below,
 
 |                      Model                      | Accuracy | Precision | Recall | F1 score |  AUC   |
