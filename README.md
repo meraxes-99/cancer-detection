@@ -2,6 +2,7 @@
 
 ![license logo](https://img.shields.io/github/license/adsers/cancer-detection)
 ![last commit](https://img.shields.io/github/last-commit/adsers/cancer-detection)
+![repo size](https://img.shields.io/github/repo-size/adsers/cancer-detection)
 
 Watch project video here:
 
