@@ -48,5 +48,5 @@ Link to Dataset : https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Ris
 
 How to run the project:
 1. Fork the repository to local machine
-2. Install Python 3.10 and install all additional dependencies in requirements.txt using the command pip install -r ./requirements.txt.
+2. Install Python 3.10 and install all additional dependencies in `requirements.txt` using the command `pip install -r ./requirements.txt`.
 3. Run the Jupyter notebook from the terminal using the command `python -m jupyterlab`.
