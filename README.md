@@ -1,5 +1,8 @@
 # Diagnosing Cervical cancer using Machine Learning
 
+![license logo](https://img.shields.io/github/license/adsers/cancer-detection)
+![last commit](https://img.shields.io/github/last-commit/adsers/cancer-detection)
+
 Watch project video here:
 
 [![Watch the video](https://drive.google.com/u/0/uc?id=1iOPt05nPLRgNdZHrmxFRdmpINg2sGtZH&export=download)](https://youtu.be/LEvAryBK_ew)
