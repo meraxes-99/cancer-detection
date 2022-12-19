@@ -18,9 +18,9 @@ Some facts about Cervical Cancer:
 
 #
 
-This repository is divided into two parts: 
-1) The dataset, a `CSV` file named `risk_factors_cervical_cancer.csv`
-2) The jupyter notebook, an `ipynb` file named `Diagnosing Cervical Cancer using Supervised ML.ipynb`
+This repository contains: 
+1) The dataset, a `CSV` file named `risk_factors_cervical_cancer.csv` in the `data` folder.
+2) The jupyter notebook, an `ipynb` file named `project.ipynb`.
 
 The dataset for tackling the problem is supplied by the UCI repository for Machine Learning. It contains a list of risk factors that lead up to the Biopsy examination.
 The aim is to try to predict the 'biopsy' variable from the dataset using four algorithms, namely, <br>
